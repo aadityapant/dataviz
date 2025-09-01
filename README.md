@@ -80,7 +80,5 @@ Type any text, then explore a **Treemap** of character frequencies and a linked 
 **Option B — Live Server (recommended)**
 - Install VS Code extension **Live Server** → Right-click `index.html` → **Open with Live Server**.
 
----
 
-## 🗂️ Project Structure
 
